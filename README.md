@@ -154,7 +154,3 @@ After deployment, it prints the application URL:
 
 http://<ALB_DNS>/[app_path]/
 
-
-Outbound: All
-
-ECS Security Grou
